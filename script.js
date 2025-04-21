@@ -1,4 +1,4 @@
-// script.js
+//huhui
 const imageInput = document.getElementById('imageInput');
 const imagePreviewContainer = document.getElementById('imagePreviewContainer');
 const imagePreview = document.getElementById('imagePreview');
